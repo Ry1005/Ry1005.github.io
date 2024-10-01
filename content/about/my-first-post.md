@@ -12,5 +12,3 @@ now
 ## What bar
 
 I'll take a Lucky Buddha
-
-Test
