@@ -1,11 +1,11 @@
 ---
 title: Raheem it's beer o'clock
-date: 2024-09-30T22:57:28-05:00
+date: 2024-10-01T11:43:52-05:00
 tags: []
 series: []
 featured: true
 ---
-It's time to drink
+Let's drink
 
 <!--more-->
 
