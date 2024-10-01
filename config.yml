@@ -86,12 +86,19 @@ languages:
         - name: About
           url: /about
           weight: 1
-        - name: Certs.
-          url: /certifications
+        - name: Experience
+          url: /experience
           weight: 2
         - name: Projects
           url: /projects
-          weight: 3
+          weight: 4
+        - name: Misc.
+          url: /miscellaneous
+          weight: 5
+        - name: Learning
+          url: /learning
+          weight: 5
+        
         - #name: Guestbook (left here in case I want to add more)
           #url: /guestbook
           #weight: 4
