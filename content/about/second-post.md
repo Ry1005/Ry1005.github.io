@@ -1,13 +1,12 @@
 ---
-title: Don, Ky let's play tennis
+title: Updates are coming
 date: 2024-10-01T11:45:26-05:00
 tags: []
 series: []
-featured: false
+featured: true
 ---
-Tennis is fun
+I am CompTIA Security+ and A+ Certified
 
 <!--more-->
 
-The heat kills me, it's too hot
-I need water
+I am currently studing for the AWS Certified Cloud Practitioner
