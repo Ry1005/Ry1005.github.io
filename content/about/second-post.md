@@ -1,5 +1,5 @@
 ---
-title: Updates are coming
+title: Updates are coming and more detailed posts
 date: 2024-10-01T11:45:26-05:00
 tags: []
 series: []
