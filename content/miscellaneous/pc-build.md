@@ -24,3 +24,8 @@ I built my own custom PC.
 **Case:** Corsair 4000D Airflow ATX Mid Tower Case
 
 **Power Supply:** Gigabyte P850GM 850 W 80+ Gold Certified Fully Modular ATX Power Supply
+
+![pc-open-case](/pc-open-case.jpg)
+
+![pc-complete](/pc-complete.jpg)
+

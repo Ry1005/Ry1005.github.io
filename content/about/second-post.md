@@ -9,4 +9,4 @@ I am CompTIA Security+ and A+ Certified
 
 <!--more-->
 
-I am currently studing for the AWS Certified Cloud Practitioner
+I am currently studying for the AWS Certified Cloud Practitioner
