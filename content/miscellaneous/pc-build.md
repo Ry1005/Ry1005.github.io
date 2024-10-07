@@ -25,7 +25,10 @@ I built my own custom PC.
 
 **Power Supply:** Gigabyte P850GM 850 W 80+ Gold Certified Fully Modular ATX Power Supply
 
-![pc-open-case](/pc-open-case.jpg)
 
-![pc-complete](/pc-complete.jpg)
+
+
+[comment out]: <![pc-open-case](/pc-open-case.jpg)>
+
+[comment out]: <![pc-complete](/pc-complete.jpg)>
 
