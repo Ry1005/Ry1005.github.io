@@ -9,4 +9,4 @@ I am learning languages using Duolingo.
 
 <!--more-->
 
-I am learning Spanish.
+I am currently learning Spanish. Later on I plan on learning Vietnamese, Korean, and Japanese.
