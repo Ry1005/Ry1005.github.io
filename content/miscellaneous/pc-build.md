@@ -30,7 +30,7 @@ I built my own custom PC.
 My pc got the blue screen of death so I ran chkdsk and tried other methods to resolve the issue. I also ran Windows Memory Diagnostic Tool, which said my memory was damaged. I replaced my old 16 GB memory with 32 GB of memory and that resolved the issue.
 
 
-![pc-open-case](/pc-open-case.jpg)
+[comment out]: <![pc-open-case](/pc-open-case.jpg)>
 
 [comment out]: <![pc-complete](/pc-complete.jpg)>
 
