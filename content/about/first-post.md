@@ -11,6 +11,7 @@ A little bit about me. Education and Experience
 
 ## TLDR
 
+- Currently a PC Technician at Lone Star College
 - Graduated summa cum laude from the University of Houston
 - Bachelor of Business Administration in Management Information Systems
 - Former Cyber Security Intern at KPMG
@@ -22,6 +23,10 @@ A little bit about me. Education and Experience
 I graduated summa cum laude from the University of Houston with a Bachelor of Business Administration in Management Information Systems. I took coursework such as Information Systems Development Tools (Java), Business Applications of Database Management (SQL), Cloud and Collaboration Solutions (AWS), and Management of Information Security.
 
 ## Experience
+
+### PC Technician at Lone Star College
+
+I am currently a PC Technician at Lone Star College. I troubleshoot and diagnose technology issues and use ServiceNow IT ticketing system to manage service requests, incidents, and projects. I assist in the management of over 2000 devices in the college's inventory by updating asset tags and room numbers for devices in ServiceNow. 
 
 ### Cyber Security Intern at KPMG
 
